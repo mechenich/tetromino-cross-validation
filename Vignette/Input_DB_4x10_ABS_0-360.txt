@@ -1,0 +1,11 @@
+Seed: 1859
+Iterations: 100
+Rows: 4
+Columns: 10
+Tetrominoes: a, b, s
+Angles: 0, 360
+ID Vector: Vignette/Diceros_Bicornis_Presence-Absence.txt, [ID, .]
+Coordinates: Vignette/ISEA3H09_Geodetic_Centroids.txt, [ID, X, Y]
+Pickled Tetrominoes: Vignette/Diceros_Bicornis_Tetrominoes_4x10_ABS.pkl
+Tetromino Counts: Vignette/Diceros_Bicornis_Tetrominoes_Counts_4x10_ABS.txt
+Spatial Folds: Vignette/Diceros_Bicornis_Folds_4x10_ABS_0-360.txt

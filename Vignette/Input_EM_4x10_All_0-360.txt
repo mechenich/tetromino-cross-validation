@@ -1,0 +1,11 @@
+Seed: 1984
+Iterations: 100
+Rows: 4
+Columns: 10
+Tetrominoes: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s
+Angles: 0, 360
+ID Vector: Vignette/Elephas_Maximus_Presence-Absence.txt, [ID, .]
+Coordinates: Vignette/ISEA3H09_Geodetic_Centroids.txt, [ID, X, Y]
+Pickled Tetrominoes: Vignette/Elephas_Maximus_Tetrominoes_4x10_All.pkl
+Tetromino Counts: Vignette/Elephas_Maximus_Tetrominoes_Counts_4x10_All.txt
+Spatial Folds: Vignette/Elephas_Maximus_Folds_4x10_All_0-360.txt

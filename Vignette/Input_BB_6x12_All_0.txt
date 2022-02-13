@@ -1,0 +1,11 @@
+Seed: 1979
+Iterations: 100
+Rows: 6
+Columns: 12
+Tetrominoes: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s
+Angles: 0, 0
+ID Vector: Vignette/Bison_Bonasus_Presence-Absence.txt, [ID, .]
+Coordinates: Vignette/ISEA3H09_Geodetic_Centroids.txt, [ID, X, Y]
+Pickled Tetrominoes: Vignette/Bison_Bonasus_Tetrominoes_6x12_All.pkl
+Tetromino Counts: Vignette/Bison_Bonasus_Tetrominoes_Counts_6x12_All.txt
+Spatial Folds: Vignette/Bison_Bonasus_Folds_6x12_All_0.txt
